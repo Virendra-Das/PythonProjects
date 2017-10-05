@@ -34,3 +34,4 @@ print(astring[::1]) #start to index stepping 1 element at a time
 print(astring[::2]) #start to index stepping 2 element at a time
 print(astring[::-1]) #reversing the string- start to end stepping -1 elements at a time
 print(astring[-1::-1]) #reversing the string - start from last and step -1 elements each time
+print("This is just to test commit from git")
