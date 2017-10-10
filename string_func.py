@@ -39,3 +39,9 @@ print("This is just to test commit from git")
 #Some functions
 astring = input("Enter a string : ")
 print(astring.startswith("Hello"))
+
+astring = input("Enter a string : ")
+print(astring.endswith("!"))
+
+astring = input("Enter a string : ")
+print(astring.split(" "))
